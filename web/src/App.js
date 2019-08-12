@@ -2,7 +2,7 @@ import React from "react";
 
 import GlobalStyle from "./globalStyle";
 
-import Login from "./Login";
+import Login from "./components/Login";
 
 function App() {
   return (
